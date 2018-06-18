@@ -1,5 +1,5 @@
-# SimDial
-Synthetic Task-oriented Dialog Generator with controllable complexity. This is the dialog data used 
+# SimDial: Synthetic Task-oriented Dialog Generator with Controllable Complexity
+This is the dialog data used 
 by our SIGDIAL 2018 paper: [Zero-Shot Dialog Generation with Cross-Domain Latent Actions](https://arxiv.org/abs/1805.04803). S
 See paper for details.
 
